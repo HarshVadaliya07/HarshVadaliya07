@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshVadaliya07
-- 👀 I’m interested in NodeJs, ExpressJs and JScript.
+- 👀 I’m interested in NodeJs, ExpressJs, JScript, Flutter, Laravel & WIX
 - 🌱 I’m currently learning php, Laravel
 - 💞️ I’m looking to collaborate on freelancing projects and jobs
 - 📫 How to reach me? Check by portfolio link.
